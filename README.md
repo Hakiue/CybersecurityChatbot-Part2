@@ -91,15 +91,11 @@ Express how you feel:
 - *"I'm curious about encryption"* → enthusiastic response + detailed info
 
 ---
-
 ## ✅ CI/CD — GitHub Actions
 
-This project includes `.github/workflows/dotnet-ci.yml`, which restores and builds the project on GitHub. After pushing the project, add a screenshot of the green CI run here.
+This project includes `.github/workflows/dotnet-ci.yml`, which restores and builds the project on GitHub.
 
-> 📸 *Add your green CI screenshot here*
-
-![CI Workflow](docs/ci-screenshot.png)
-
+![Green CI workflow run](Screenshots/ci-success.png)
 ## 🏷️ Releases and Tags
 
 Part 2 requires meaningful commit history and releases/tags. Suggested tags:
