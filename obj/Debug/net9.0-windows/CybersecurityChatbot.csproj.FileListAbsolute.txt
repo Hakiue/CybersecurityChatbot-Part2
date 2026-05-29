@@ -1,0 +1,15 @@
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\bin\Debug\net9.0-windows\Assets\greeting.wav
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\bin\Debug\net9.0-windows\CybersecurityChatbot.exe
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\bin\Debug\net9.0-windows\CybersecurityChatbot.deps.json
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\bin\Debug\net9.0-windows\CybersecurityChatbot.runtimeconfig.json
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\bin\Debug\net9.0-windows\CybersecurityChatbot.dll
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\bin\Debug\net9.0-windows\CybersecurityChatbot.pdb
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\obj\Debug\net9.0-windows\CybersecurityChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\obj\Debug\net9.0-windows\CybersecurityChatbot.AssemblyInfoInputs.cache
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\obj\Debug\net9.0-windows\CybersecurityChatbot.AssemblyInfo.cs
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\obj\Debug\net9.0-windows\CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\obj\Debug\net9.0-windows\CybersecurityChatbot.dll
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\obj\Debug\net9.0-windows\refint\CybersecurityChatbot.dll
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\obj\Debug\net9.0-windows\CybersecurityChatbot.pdb
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\obj\Debug\net9.0-windows\CybersecurityChatbot.genruntimeconfig.cache
+C:\Users\zaaki\Downloads\CybersecurityChatbot_Part2_FINAL_FLOW_FIX\obj\Debug\net9.0-windows\ref\CybersecurityChatbot.dll
